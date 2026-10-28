@@ -1,3 +1,5 @@
+> **This is the older, contour-map version of Isobar (GNOME 46), kept as `isobar-contour`.** Isobar is now the adaptive GNOME interface for GNOME 50: [CaptainPancakeWithBacon/isobar](https://github.com/CaptainPancakeWithBacon/isobar).
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="brand/horizontal/isobar-horizontal-white.svg">
